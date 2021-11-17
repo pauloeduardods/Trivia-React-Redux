@@ -15,6 +15,7 @@ module.exports = {
       minWidth: {
         mincontainer: '1000px',
         mincontainersm: '740px',
+        minranking: '250px'
       }
     },
   },
