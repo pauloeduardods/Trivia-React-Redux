@@ -4,7 +4,7 @@ Link para a aplicação: https://pauloeduardods.github.io/Trivia-React-Redux/
 
 Projeto consistia em fazer um jogo de perguntas e respostas, onde o jogador vai pontuando conforme acerta as perguntas.
 
-<img src=""/>
+<img src="./Trivia.png"/>
 
 
 ## Aprendizados
